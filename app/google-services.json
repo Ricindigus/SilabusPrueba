@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "966333465178",
+    "firebase_url": "https://pruebamultiple-15632.firebaseio.com",
+    "project_id": "pruebamultiple-15632",
+    "storage_bucket": "pruebamultiple-15632.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966333465178:android:5709e2bd2e6725b4",
+        "android_client_info": {
+          "package_name": "com.example.dmorales.silabusprueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966333465178-82edsavrcfprhne7fesoo4t1chradf8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dmorales.silabusprueba",
+            "certificate_hash": "13e64ba640a35eaf9fd50b39d46e558360bcd722"
+          }
+        },
+        {
+          "client_id": "966333465178-kqsl958d482q4q58r9jd5itiuh6jiveq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXPXcL2U8hvLayIDoJZHGI2VgRIJcZVEQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966333465178-kqsl958d482q4q58r9jd5itiuh6jiveq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966333465178:android:b88c850a514a8fb1",
+        "android_client_info": {
+          "package_name": "com.example.ricardo.proyectosilabus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966333465178-ulqtj5bmopcht00s0t0pdbi0htsinskj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ricardo.proyectosilabus",
+            "certificate_hash": "9df97ac86063d6ce6c2c2c8f8a94aa12656ec39e"
+          }
+        },
+        {
+          "client_id": "966333465178-kqsl958d482q4q58r9jd5itiuh6jiveq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXPXcL2U8hvLayIDoJZHGI2VgRIJcZVEQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966333465178-kqsl958d482q4q58r9jd5itiuh6jiveq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
